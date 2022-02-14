@@ -6,5 +6,5 @@ let age = prompt('Masukkan umur Cristian Ronaldo!');
 // alert(result);
 
 // Memakai template strings
-let result = '${fname} ${lname} is ${age} years old';
+let result = `${fname} ${lname} is ${age} years old`;
 alert(result);
